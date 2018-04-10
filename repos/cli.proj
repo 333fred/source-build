@@ -15,6 +15,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <!--
     <RepositoryReference Include="application-insights" />
     <RepositoryReference Include="cli-migrate" />
     <RepositoryReference Include="clicommandlineparser" />
@@ -31,6 +32,7 @@
     <RepositoryReference Include="vstest" />
     <RepositoryReference Include="websdk" />
     <RepositoryReference Include="xliff-tasks" />
+    -->
   </ItemGroup>
 
   <ItemGroup>

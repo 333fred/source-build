@@ -83,6 +83,8 @@
     -->
     <RootRepo>known-good</RootRepo>
     <RootRepo Condition="$(Platform.Contains('arm'))">core-setup</RootRepo>
+
+    <RootRepo>cli</RootRepo>
   </PropertyGroup>
 
   <ItemGroup>
